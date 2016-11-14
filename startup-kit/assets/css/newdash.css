@@ -1,12 +1,25 @@
-body {
-  background: #ddd;
-   background: #35373C url('../images/hero/world.png') no-repeat 50% top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+.nav-tabs{
+	border-bottom: 1px solid rgba(87, 86, 86, 0);
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(87, 86, 86, 0);
 }
 
+.nav-tabs > li > a {
+width: 360px;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0 0;
+}
+
+.content{
+	margin-top: 20px;
+}
+
+body {
+  background: #ddd;
+}
 
 /* Profile container */
 .profile {
@@ -153,13 +166,12 @@ body {
   float: left;
   padding: 20px;
 }
-.bType{
-  font-family: 'ABeeZee', sans-serif;
-  color: #4d4d4d;
-  padding-left: 10px;
+
+.sidebarcontent{
+ margin-left: -20px;
+ mar
 }
-.styleInfo{
-  font-family: 'ABeeZee', sans-serif;
-  color: #4d4d4d;
-  padding-left: 10px;
+
+.iconpadding{
+	padding-right: 20px;
 }
