@@ -1,7 +1,7 @@
 body{
 	/*background-color: #ddd;*/
-/*	background-image: url('../images/hero/background.png');
-*/}
+	background-image: url('../images/hero/background.png');
+}
 .totalcontent{
 	box-shadow: 2px 2px 0px #888888;
 }

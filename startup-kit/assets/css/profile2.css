@@ -1,5 +1,4 @@
 body {
-  width: 100%;
   background: #ddd;
    background: #35373C url('../images/hero/background.png') no-repeat 50% top;
   -webkit-background-size: cover;
@@ -7,7 +6,6 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
-
 
 
 /* Profile container */
